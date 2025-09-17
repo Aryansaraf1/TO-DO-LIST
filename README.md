@@ -24,7 +24,7 @@ A modern, responsive to-do list application built with vanilla JavaScript, HTML,
 ### Option 2: Live Server (Recommended for Development)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/interactive-todo-list.git
+git clone https://github.com/Aryansaraf1/TO-DO-LIST.git
 
 # Navigate to project directory
 cd interactive-todo-list
