@@ -2,6 +2,20 @@
 
 A modern, responsive to-do list application built with vanilla JavaScript, HTML, and CSS. Features a clean, intuitive interface with smooth animations and comprehensive task management capabilities.
 
+## 📚 Table of Contents
+
+- [Features](#-features)
+- [Quick Start](#-quick-start)
+- [Project Structure](#-project-structure)
+- [Technologies Used](#-technologies-used)
+- [Usage](#-usage)
+- [Customization](#-customization)
+- [Development](#-development)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
+- [Support](#-support)
+
 ## ✨ Features
 
 - ✅ **Add Tasks**: Quick task creation with Enter key support
@@ -27,7 +41,7 @@ A modern, responsive to-do list application built with vanilla JavaScript, HTML,
 git clone https://github.com/Aryansaraf1/TO-DO-LIST.git
 
 # Navigate to project directory
-cd interactive-todo-list
+cd TO-DO-LIST
 
 # If you have Python installed
 python -m http.server 8000
